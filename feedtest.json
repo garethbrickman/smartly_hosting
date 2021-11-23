@@ -1,0 +1,14 @@
+{
+		"result": [
+			{
+				"id": 1,
+				"title": "Product A",
+				"price": 9.99
+			},
+			{
+				"id": 2,
+				"title": "Product B",
+				"price": 5.99
+			},
+		]
+}
